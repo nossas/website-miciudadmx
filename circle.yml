@@ -6,7 +6,7 @@ machine:
 
 deployment:
   production:
-    branch: production
+    branch: master
     commands:
       - git remote add dokku@reboo.org:miciudadmx-org
       - git push dokku master
