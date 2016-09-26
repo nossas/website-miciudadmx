@@ -1,8 +1,8 @@
 {
   "require" : {
       "php": "~7"
-    }
-    "scripts": {
+    },
+    "scripts" :  {
       "test": [
           "echo 'sucesso'"
       ]
