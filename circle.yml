@@ -1,0 +1,12 @@
+machine:
+  timezone:
+    America/Sao_Paulo # Set the timezone
+  php:
+    version: 7.0.4
+
+deployment:
+  production:
+    branch: production
+    commands:
+      - git remote add dokku@reboo.org:miciudadmx-org
+      - git push dokku master
