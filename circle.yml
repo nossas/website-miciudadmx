@@ -3,7 +3,9 @@ machine:
     America/Sao_Paulo # Set the timezone
   php:
     version: 7.0.4
-
+test:
+  override:
+    - composer test
 deployment:
   production:
     branch: master
