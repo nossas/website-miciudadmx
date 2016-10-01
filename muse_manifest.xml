@@ -1,18 +1,24 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="miciudadmx.org" resolutions="1x" timestamp="1474773119522">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="miciudadmx.org" resolutions="1x" timestamp="1475334811230">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3994938267" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3851567933" seo="true" mt="1474774361426" redirect="true"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4040988197"/>
-    <file name="index.css" crc="3981928377" ref="index"/>
+    <file name="site_global.css" crc="4181650550"/>
+    <file name="index.css" crc="4221929814" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="adobe-muse-form.muse" crc="425498754" seo="true" mt="1406755770000"/>
     <file name="-mr--anchor-scroll-speed-adjuster.mulib" crc="3889393406" seo="true" mt="1435535625000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
-    <file name="museutils.js" crc="3790713428" ref="index"/>
-    <file name="whatinput.js" crc="84559013" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:phone>index"/>
+    <file name="museutils.js" crc="3790713428" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="84559013" ref="index:phone>index"/>
+    <file name="pie.js" crc="3827607177" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:phone>index"/>
     <file name="webpro.js" crc="329496574" ref="index"/>
     <file name="form_check.php" crc="3805695515" ref="index"/>
     <file name="form_throttle.php" crc="3802629389" ref="index"/>
@@ -21,31 +27,24 @@
     <file name="musewpslideshow.js" crc="394033048" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
     <file name="touchswipe.js" crc="497316881" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index:phone>index"/>
+    <file name="museredirect.js" crc="71780213" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="mi-ciudad-mx-favicon.ico" crc="209697382" ref="index"/>
-    <file name="bellas artes1 (1).gif" crc="4120670188" seo="true" ref="index"/>
+    <file name="mi-ciudad-mx-favicon.ico" crc="209697382" ref="phone>index:index"/>
+    <file name="bellas artes1 (1).gif" crc="4120670188" seo="true" ref="index:phone>index"/>
     <file name="porque.jpg" crc="3813637975" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="para que .jpg" crc="108325414" seo="true" ref="index"/>
     <file name="como.jpg" crc="522161954" seo="true" ref="index"/>
     <file name="pasted-svg-168358x168.svg" crc="235391561" ref="index"/>
     <file name="pasted svg 168358x168_poster_.png" crc="12718766" ref="index"/>
-    <file name="pasted-svg-225157x26.svg" crc="535370139" ref="index"/>
-    <file name="pasted svg 225157x26_poster_.png" crc="4154980190" ref="index"/>
     <file name="pasted-svg-168358x1682.svg" crc="182297892" ref="index"/>
     <file name="pasted svg 168358x168_poster_2.png" crc="431584401" ref="index"/>
-    <file name="pasted-svg-200691x26.svg" crc="67260001" ref="index"/>
-    <file name="pasted svg 200691x26_poster_.png" crc="3909911469" ref="index"/>
     <file name="pasted-svg-168358x1683.svg" crc="529203781" ref="index"/>
     <file name="pasted svg 168358x168_poster_3.png" crc="128338408" ref="index"/>
     <file name="pasted-svg-168358x1684.svg" crc="223262953" ref="index"/>
     <file name="pasted svg 168358x168_poster_4.png" crc="459140880" ref="index"/>
-    <file name="pasted-svg-226795x26.svg" crc="463706644" ref="index"/>
-    <file name="pasted svg 226795x26_poster_.png" crc="3971695668" ref="index"/>
-    <file name="pasted-svg-213718x26.svg" crc="4191994284" ref="index"/>
-    <file name="pasted svg 213718x26_poster_.png" crc="436187721" ref="index"/>
     <file name="pasted-svg-528927x225.svg" crc="3863361251" ref="index"/>
     <file name="pasted svg 528927x225_poster_.png" crc="318577253" ref="index"/>
     <file name="brasil_sr.jpg" crc="63138350" seo="true" ref="index"/>
@@ -57,16 +56,12 @@
     <file name="pasted-svg-773993x198.svg" crc="508796243" ref="index"/>
     <file name="pasted svg 773993x198_poster_.png" crc="94150322" ref="index"/>
     <file name="mundo_1.gif" crc="4137935320" seo="true" ref="index"/>
-    <file name="pasted-svg-421464x350.svg" crc="260436303" ref="index"/>
-    <file name="pasted svg 421464x350_poster_.png" crc="136404864" ref="index"/>
-    <file name="pasted-svg-502123x350.svg" crc="4018709326" ref="index"/>
-    <file name="pasted svg 502123x350_poster_.png" crc="3809552595" ref="index"/>
-    <file name="pasted-svg-577845x350.svg" crc="3825783829" ref="index"/>
-    <file name="pasted svg 577845x350_poster_.png" crc="4022480798" ref="index"/>
+    <file name="pasted-svg-421464x350.svg" crc="260436303" ref="index:phone>index"/>
+    <file name="pasted svg 421464x350_poster_.png" crc="136404864" ref="phone>index:index"/>
     <file name="pasted-svg-1406507x90.svg" crc="324357845" ref="index"/>
     <file name="pasted svg 1406507x90_poster_.png" crc="3854244496" ref="index"/>
-    <file name="pasted-svg-208669x73.svg" crc="378094311" ref="index"/>
-    <file name="pasted svg 208669x73_poster_.png" crc="25436903" ref="index"/>
+    <file name="pasted-svg-208669x73.svg" crc="378094311" ref="index:phone>index"/>
+    <file name="pasted svg 208669x73_poster_.png" crc="25436903" ref="phone>index:index"/>
     <file name="pasted-svg-1121926x90.svg" crc="3817243916" ref="index"/>
     <file name="pasted svg 1121926x90_poster_.png" crc="20927732" ref="index"/>
     <file name="logo_nuestras.png" crc="399345955" seo="true" ref="index"/>
@@ -84,6 +79,14 @@
     <file name="close_light.png" crc="126613487" seo="true" ref="index"/>
     <file name="pasted-svg-196283x69.svg" crc="479965175" ref="index"/>
     <file name="pasted svg 196283x69_poster_.png" crc="316072140" ref="index"/>
+    <file name="porque297x162.jpg" crc="4008400372" seo="true" ref="phone>index"/>
+    <file name="3-01349x208.png" crc="3821787019" seo="true" ref="phone>index"/>
+    <file name="u5806-4.png" crc="477461638" ref="index"/>
+    <file name="u5796-4.png" crc="4284892242" ref="index"/>
+    <file name="u5800-4.png" crc="3926647533" ref="index"/>
+    <file name="u5809-4.png" crc="4097604953" ref="index"/>
+    <file name="u5789-8.png" crc="3764916489" ref="index"/>
+    <file name="u5793-6.png" crc="322411728" ref="index"/>
   </folder>
-  <file name="index.html" crc="183956955" seo="true" mt="1474773079192" redirect="true"/>
+  <file name="index.html" crc="4208231187" seo="true" mt="1475334771566" redirect="true"/>
 </manifest>

@@ -14,98 +14,111 @@
   </url>
   <url>
     <loc>http://miciudadmx.org/images/bellas%20artes1%20(1).gif</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/images/porque.jpg</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/images/para%20que%20.jpg</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/images/como.jpg</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/images/brasil_sr.jpg</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/images/brasil_pple.jpg</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/images/brasil_madres.jpg</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/images/brasil_ni%C3%B1as.jpg</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/images/mundo_1.gif</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/images/logo_nuestras.png</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/images/1-01.png</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/images/2-01.png</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/images/3-01.png</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/images/pointer.png</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/images/close_light.png</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://miciudadmx.org/images/porque297x162.jpg</loc>
+    <lastmod>2016-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://miciudadmx.org/images/3-01349x208.png</loc>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://miciudadmx.org/index.html</loc>
-    <lastmod>2016-09-24</lastmod>
+    <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://miciudadmx.org/phone/index.html"/>
   </url>
 </urlset>
