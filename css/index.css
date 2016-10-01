@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FB;
-	background-color: #A58956;
+	color: #0000EB;
+	background-color: #31E0F6;
 }
 
 #page
@@ -21,6 +21,7 @@
 {
 	width: 0.01px;
 	margin-right: -10000px;
+	margin-top: 59px;
 	margin-left: -100px;
 }
 
@@ -32,7 +33,6 @@
 	padding-bottom: 1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 59px;
 }
 
 #u2077_position_content
@@ -934,7 +934,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 954px;
+	margin-top: 895px;
 	left: 228px;
 }
 
@@ -966,7 +966,7 @@
 {
 	z-index: 27;
 	min-height: 59px;
-	margin-top: 3220px;
+	margin-top: 3161px;
 }
 
 #u3246-6
@@ -986,7 +986,7 @@
 {
 	z-index: 29;
 	min-height: 52px;
-	margin-top: 3320px;
+	margin-top: 3261px;
 }
 
 #u4580-7
@@ -1017,7 +1017,7 @@
 {
 	z-index: 139;
 	min-height: 52px;
-	margin-top: 5887px;
+	margin-top: 5828px;
 }
 
 #u806
@@ -1037,7 +1037,7 @@
 {
 	z-index: 154;
 	min-height: 100px;
-	margin-top: 165px;
+	margin-top: 106px;
 }
 
 #u814-4
@@ -1057,7 +1057,7 @@
 {
 	z-index: 156;
 	min-height: 52px;
-	margin-top: 294px;
+	margin-top: 235px;
 }
 
 #u1045-8
@@ -1077,7 +1077,7 @@
 {
 	z-index: 160;
 	min-height: 52px;
-	margin-top: 386px;
+	margin-top: 327px;
 }
 
 #u4717
@@ -1097,7 +1097,7 @@
 {
 	z-index: 170;
 	min-height: 66px;
-	margin-top: 4827px;
+	margin-top: 4768px;
 }
 
 #u4993-11
@@ -1117,7 +1117,7 @@
 {
 	z-index: 172;
 	min-height: 127px;
-	margin-top: 4924px;
+	margin-top: 4865px;
 }
 
 #u4996
@@ -1127,7 +1127,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 5051px;
+	margin-top: 4992px;
 	left: 583px;
 }
 
@@ -1138,7 +1138,7 @@
 	height: 339px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 6004px;
+	margin-top: 5945px;
 	left: 207px;
 }
 
@@ -1498,14 +1498,186 @@
 	visibility: hidden;
 }
 
+#u3033-12
+{
+	z-index: 330;
+	width: 520px;
+	min-height: 320px;
+	background-color: transparent;
+	color: #7F7F7F;
+	font-size: 23px;
+	line-height: 28px;
+	font-family: carme, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1829px;
+	left: 100px;
+}
+
+#u2830-3,#u3027-3,#u3151-3,#u4580-5,#u3033-7
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3033-5
+{
+	font-size: 16px;
+	line-height: 19px;
+}
+
+#u3033-4,#u3033-6
+{
+	line-height: 28px;
+}
+
+#u5789-8
+{
+	z-index: 359;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1715px;
+	left: 771px;
+}
+
+#u5793-6
+{
+	z-index: 367;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2522px;
+	left: 166px;
+}
+
+#pu2274
+{
+	width: 0.01px;
+	padding-bottom: 3021px;
+	margin-right: -10000px;
+	margin-left: -37px;
+}
+
+#u2274
+{
+	z-index: 6;
+	width: 570px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 844px;
+	left: 20px;
+}
+
+#u2198
+{
+	z-index: 7;
+	width: 570px;
+	height: 584px;
+	-pie-box-shadow: 12px 12px 20px #DFDFDF;
+	box-shadow: 12px 12px 20px rgba(127,127,127,0.25);
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3132
+{
+	z-index: 8;
+	width: 570px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 2437px;
+	left: 20px;
+}
+
+#u3133
+{
+	z-index: 9;
+	width: 570px;
+	height: 584px;
+	-pie-box-shadow: 12px 12px 20px #DFDFDF;
+	box-shadow: 12px 12px 20px rgba(127,127,127,0.25);
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3009
+{
+	z-index: 20;
+	width: 570px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 1643px;
+	left: 610px;
+}
+
+#u3010
+{
+	z-index: 21;
+	width: 570px;
+	height: 584px;
+	-pie-box-shadow: 12px 12px 20px #DFDFDF;
+	box-shadow: 12px 12px 20px rgba(127,127,127,0.25);
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4853
+{
+	z-index: 146;
+	width: 611px;
+	background-color: transparent;
+	position: fixed;
+	top: 1534px;
+	left: -37px;
+}
+
+#u4881
+{
+	z-index: 148;
+	width: 594px;
+	background-color: transparent;
+	position: fixed;
+	top: 2390px;
+	left: 642px;
+}
+
+#u5362
+{
+	z-index: 186;
+	width: 611px;
+	background-color: transparent;
+	position: fixed;
+	top: 791px;
+	left: 634px;
+}
+
+.js #u3217.ose_pre_init,.js #u3241.ose_pre_init,.js #u3190.ose_pre_init,.js #u3223.ose_pre_init,.js #u3678.ose_pre_init,.js #u4397.ose_pre_init,.js #u4417.ose_pre_init,.js #u4387.ose_pre_init,.js #u4407.ose_pre_init,.js #u2363.ose_pre_init,.js #u5789-8.ose_pre_init,.js #u5793-6.ose_pre_init,.js #u2198.ose_pre_init,.js #u3133.ose_pre_init,.js #u3010.ose_pre_init,.js #u4853.ose_pre_init,.js #u4881.ose_pre_init,.js #u5362.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
 #pamphletu5469
 {
 	z-index: 263;
 	width: 0.01px;
 	height: 64px;
-	position: relative;
-	margin-right: -10000px;
-	left: 1334px;
+	position: fixed;
+	top: 0px;
+	right: 66px;
 }
 
 #u5475
@@ -2261,179 +2433,6 @@
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
 {
 	cursor: pointer;
-}
-
-#u3033-12
-{
-	z-index: 330;
-	width: 520px;
-	min-height: 320px;
-	background-color: transparent;
-	color: #7F7F7F;
-	font-size: 23px;
-	line-height: 28px;
-	font-family: carme, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 1888px;
-	left: 100px;
-}
-
-#u2830-3,#u3027-3,#u3151-3,#u4580-5,#u3033-7
-{
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u3033-5
-{
-	font-size: 16px;
-	line-height: 19px;
-}
-
-#u3033-4,#u3033-6
-{
-	line-height: 28px;
-}
-
-#u5789-8
-{
-	z-index: 359;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 1774px;
-	left: 771px;
-}
-
-#u5793-6
-{
-	z-index: 367;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 2581px;
-	left: 166px;
-}
-
-#pu2274
-{
-	width: 0.01px;
-	padding-bottom: 2230px;
-	margin-right: -10000px;
-	margin-top: 791px;
-	margin-left: -37px;
-}
-
-#u2274
-{
-	z-index: 6;
-	width: 570px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: fixed;
-	top: 844px;
-	left: 20px;
-}
-
-#u2198
-{
-	z-index: 7;
-	width: 570px;
-	height: 584px;
-	-pie-box-shadow: 12px 12px 20px #DFDFDF;
-	box-shadow: 12px 12px 20px rgba(127,127,127,0.25);
-	background-color: #FFFFFF;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u3132
-{
-	z-index: 8;
-	width: 570px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: fixed;
-	top: 2437px;
-	left: 20px;
-}
-
-#u3133
-{
-	z-index: 9;
-	width: 570px;
-	height: 584px;
-	-pie-box-shadow: 12px 12px 20px #DFDFDF;
-	box-shadow: 12px 12px 20px rgba(127,127,127,0.25);
-	background-color: #FFFFFF;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u3009
-{
-	z-index: 20;
-	width: 570px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: fixed;
-	top: 1643px;
-	left: 610px;
-}
-
-#u3010
-{
-	z-index: 21;
-	width: 570px;
-	height: 584px;
-	-pie-box-shadow: 12px 12px 20px #DFDFDF;
-	box-shadow: 12px 12px 20px rgba(127,127,127,0.25);
-	background-color: #FFFFFF;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u4853
-{
-	z-index: 146;
-	width: 611px;
-	background-color: transparent;
-	position: fixed;
-	top: 1534px;
-	left: -37px;
-}
-
-#u4881
-{
-	z-index: 148;
-	width: 594px;
-	background-color: transparent;
-	position: fixed;
-	top: 2390px;
-	left: 642px;
-}
-
-#u5362
-{
-	z-index: 186;
-	width: 611px;
-	background-color: transparent;
-	position: fixed;
-	top: 791px;
-	left: 634px;
-}
-
-.js #u3217.ose_pre_init,.js #u3241.ose_pre_init,.js #u3190.ose_pre_init,.js #u3223.ose_pre_init,.js #u3678.ose_pre_init,.js #u4397.ose_pre_init,.js #u4417.ose_pre_init,.js #u4387.ose_pre_init,.js #u4407.ose_pre_init,.js #u2363.ose_pre_init,.js #u5789-8.ose_pre_init,.js #u5793-6.ose_pre_init,.js #u2198.ose_pre_init,.js #u3133.ose_pre_init,.js #u3010.ose_pre_init,.js #u4853.ose_pre_init,.js #u4881.ose_pre_init,.js #u5362.ose_pre_init
-{
-	opacity: 0;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
 }
 
 #pu1888

@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="miciudadmx.org" resolutions="1x" timestamp="1475334811230">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="miciudadmx.org" resolutions="1x" timestamp="1475339717183">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="3994938267" ref="phone>index"/>
@@ -7,7 +7,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4181650550"/>
-    <file name="index.css" crc="4221929814" ref="index"/>
+    <file name="index.css" crc="3945914614" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="adobe-muse-form.muse" crc="425498754" seo="true" mt="1406755770000"/>
@@ -88,5 +88,5 @@
     <file name="u5789-8.png" crc="3764916489" ref="index"/>
     <file name="u5793-6.png" crc="322411728" ref="index"/>
   </folder>
-  <file name="index.html" crc="4208231187" seo="true" mt="1475334771566" redirect="true"/>
+  <file name="index.html" crc="266140206" seo="true" mt="1475339692765" redirect="true"/>
 </manifest>
